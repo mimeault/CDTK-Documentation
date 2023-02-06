@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'CDTK Documentation'
-copyright = '2023, Natural resouces Canada'
+copyright = '2023, Natural resources Canada'
 author = 'Martin Mimeault'
 
 release = '0.1'
