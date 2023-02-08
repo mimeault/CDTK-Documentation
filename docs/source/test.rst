@@ -1,8 +1,8 @@
 .. table:: Table 1: Metadata Field Description
 
    +----------------------------------------+----------+------------------+
-   | .. image:: vertopal_40208e89b75        |          |                  |
-   | 1415fb056b7bec6b8446b/media/image1.png |          |                  |
+   | .. image:: /media/image1.png           |          |                  |
+   |                                        |          |                  |
    |    :width: 6.425in                     |          |                  |
    |    :height: 1.475in                    |          |                  |
    |                                        |          |                  |
