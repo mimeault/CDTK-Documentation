@@ -1,0 +1,14 @@
+site_name: CDTK Documentation
+theme:
+    name: readthedocs
+    locale: fr
+nav:
+    - 'index.md'
+    - 'usage.md'
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        baselevel: 2
+        separator: "_"
+plugins:
+    - search
