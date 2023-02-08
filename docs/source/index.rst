@@ -50,8 +50,8 @@ Contents
 
 .. toctree::
 
-usage
+   usage
 
-api
+   api
 
-test
+   test
