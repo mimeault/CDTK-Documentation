@@ -407,7 +407,7 @@ Package Control file
    | adata |              | cability |                 | reference      |
    +=======+==============+==========+=================+================+
    | Su    | A short      | M        | Canadian        | None           |
-   | mmary | summary of   | andatory | airports served |                |
+   |mmary  | summary of   | andatory | airports served |                |
    |       | the service. |          | by NAV CANADA   |                |
    |       |              |          | control towers  |                |
    |       |              |          | or flight       |                |
