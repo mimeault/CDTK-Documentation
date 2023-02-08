@@ -1,23 +1,57 @@
 CCMEO Dissemination Tool Kit (CDTK) Documentation
-===================================
+=================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Purpose
+-------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis
+nisi justo, eu volutpat eros ullamcorper vitae. Ut sed scelerisque enim.
+Donec vel lorem imperdiet, tincidunt ex a, mattis nisl. Phasellus
+elementum velit non massa hendrerit pretium. Aliquam ut dui id est
+placerat mattis. Donec vitae pulvinar arcu. Duis feugiat urna tortor, id
+interdum sapien hendrerit nec. Phasellus molestie purus sit amet dolor
+semper, ut bibendum velit luctus.
 
-.. note::
+Scope
+-----
 
-   This project is under active development.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis
+nisi justo, eu volutpat eros ullamcorper vitae. Ut sed scelerisque enim.
+Donec vel lorem imperdiet, tincidunt ex a, mattis nisl. Phasellus
+elementum velit non massa hendrerit pretium. Aliquam ut dui id est
+placerat mattis. Donec vitae pulvinar arcu. Duis feugiat urna tortor, id
+interdum sapien hendrerit nec. Phasellus molestie purus sit amet dolor
+semper, ut bibendum velit luctus.
+
+Description and usage
+---------------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis
+nisi justo, eu volutpat eros ullamcorper vitae. Ut sed scelerisque enim.
+Donec vel lorem imperdiet, tincidunt ex a, mattis nisl. Phasellus
+elementum velit non massa hendrerit pretium. Aliquam ut dui id est
+placerat mattis. Donec vitae pulvinar arcu. Duis feugiat urna tortor, id
+interdum sapien hendrerit nec. Phasellus molestie purus sit amet dolor
+semper, ut bibendum velit luctus.
+
+Help resources
+--------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis
+nisi justo, eu volutpat eros ullamcorper vitae. Ut sed scelerisque enim.
+Donec vel lorem imperdiet, tincidunt ex a, mattis nisl. Phasellus
+elementum velit non massa hendrerit pretium. Aliquam ut dui id est
+placerat mattis. Donec vitae pulvinar arcu. Duis feugiat urna tortor, id
+interdum sapien hendrerit nec. Phasellus molestie purus sit amet dolor
+semper, ut bibendum velit luctus.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-   test
+usage
+
+api
+
+test
