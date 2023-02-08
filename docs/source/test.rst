@@ -1,7 +1,7 @@
 .. table:: Table 1: Metadata Field Description
 
    +----------------------------------------+----------+------------------+
-   | .. image:: /media/image1.png           |          |                  |
+   | .. image:: media/image1.png            |          |                  |
    |                                        |          |                  |
    |    :width: 6.425in                     |          |                  |
    |    :height: 1.475in                    |          |                  |
