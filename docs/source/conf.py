@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'CDTK Documentation'
-copyright = '2023, Natural resources Canada'
+copyright = '2023, Natural resources Canada. Sa Majesté le Roi du chef du Canada.'
 author = 'Martin Mimeault'
 
 release = '0.1'
