@@ -1,8 +1,0 @@
-theme:
-    name: readthedocs
-    locale: en
-
-nav:
-    - 'index'
-    - 'test'
-    - 'usage'
